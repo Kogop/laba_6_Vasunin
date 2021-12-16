@@ -1,29 +1,28 @@
 #include <iostream>
-#include<fstream>
+#include <String>
 
 using namespace std;
 
+string Chislo1;
+string Chislo2;
+string Otwet;
 
 void chislo() {
 
-	FILE* chislo1 = fopen("1 chislo.txt", "wr");
-	char Chislo1[20];
-	char Chislo2[20];
-	for (int i = 0; i < 20; i++)
-	{
-		cin >> Chislo1[i];
-		fprintf(chislo1, "%10.6f", Chislo1[i]);
 
+	for (int j = 0; j < size(Chislo2); j++)
+	{
+
+
+		for (int i = 0; i < 9; i++)
+		{
+
+			Otwet = Chislo1[i] * Chislo2[j]
+
+		}
 	}
 
-	FILE* chislo2 = fopen("2 chislo.txt", "wr");
 
-	for (int i = 0; i < 20; i++)
-	{
-		cin >> Chislo2[i];
-		fprintf(chislo2, "%10.6f", Chislo2[i]);
-
-	}
 
 }
 
@@ -32,14 +31,19 @@ void chislo() {
 
 
 
-FILE F;
+
+
+
 int main() {
+
+	cin >> Chislo1;
+	cin >> Chislo2;
 
 	chislo();
 	//tatata
 
 
-	FILE* F = fopen("3 chislo.txt", "wr");
+
 
 
 
