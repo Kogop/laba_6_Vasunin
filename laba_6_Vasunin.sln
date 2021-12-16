@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba_6_Vasunin", "laba_6_Vasunin\laba_6_Vasunin.vcxproj", "{0B97B693-C701-449D-A7A4-C00146B65B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Debug|x64.ActiveCfg = Debug|x64
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Debug|x64.Build.0 = Debug|x64
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Debug|x86.Build.0 = Debug|Win32
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Release|x64.ActiveCfg = Release|x64
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Release|x64.Build.0 = Release|x64
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Release|x86.ActiveCfg = Release|Win32
+		{0B97B693-C701-449D-A7A4-C00146B65B88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B577E2D9-3253-47AA-8ECE-CC3FF26518FC}
+	EndGlobalSection
+EndGlobal
