@@ -36,6 +36,7 @@ FILE F;
 int main() {
 
 	chislo();
+	//tatata
 
 
 	FILE* F = fopen("3 chislo.txt", "wr");
