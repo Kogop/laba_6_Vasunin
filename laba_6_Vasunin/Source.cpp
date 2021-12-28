@@ -54,7 +54,7 @@ public:
 
     //Конструктор, строку конвертирует в большое число
     BigNumber(string str) {
-        int i;
+        int i = 0;
         if (BASE != 1) {
             //Записываем с конца по BASE символов строки в чанки
             for (i = str.size() - BASE; i >= BASE - 1; i -= BASE) {
